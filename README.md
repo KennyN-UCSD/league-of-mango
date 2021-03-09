@@ -6,7 +6,7 @@ Maintained by KennyHammerspike:\
 **KennyHammerspike#9443** on Discord
 
 ## Minecraft Server
-IP: **leagueofmango.me**\
+IP: **mc.leagueofmango.me**\
 Current Version: **1.17, 21w08b**
 
 The server is currently a vanilla server with a Vanilla+ data pack that adds quality of life features.
