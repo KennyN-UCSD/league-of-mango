@@ -1,5 +1,6 @@
 # League of Mango
 [League of Mango Discord Server](http://discord.gg/7YRt5cFnJ7)
+
 Maintained by KennyHammerspike: **KennyHammerspike#9443** on Discord
 
 ## Minecraft Server
