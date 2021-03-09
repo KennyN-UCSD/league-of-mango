@@ -7,7 +7,7 @@ Maintained by KennyHammerspike:\
 
 ## Minecraft Server
 IP: **mc.leagueofmango.me**\
-Current Version: **1.17, 21w08b**
+Current Version: **1.17, 21w08b**\
 Runs 24/7, aside from updates.
 
 The server is currently a vanilla server with a Vanilla+ data pack that adds quality of life features.
