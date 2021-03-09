@@ -1,4 +1,4 @@
-## Discord Information
+# Discord Information
 
 [League of Mango Discord Server](http://discord.gg/7YRt5cFnJ7)
 
