@@ -25,3 +25,7 @@ The data pack includes:
 	* Cobwebs, horse armor, enchanted golden apples, chainmail armor, bottles o' enchanting, name tags, and tridents are now craftable.
 	* Pumpkin seeds can now be used to create orange dye.
 	* Shortcut recipes for items that required crafted items in their recipes like dispensers have been added.
+
+## Supplementary Minecraft Files
+[Loyalty Resource Pack](https://github.com/KennyN-UCSD/league-of-mango/raw/main/Resource%20Packs/Loyalty.zip)
+* An edited version of the Faithful 32x Resource Pack for 1.17, but with 1.13 textures except wheat.
