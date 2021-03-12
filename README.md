@@ -27,5 +27,19 @@ The data pack includes:
 	* Shortcut recipes for items that required crafted items in their recipes like dispensers have been added.
 
 ## Supplementary Minecraft Files
-[Loyalty Resource Pack](https://github.com/KennyN-UCSD/league-of-mango/raw/main/Resource%20Packs/Loyalty.zip)
-* An edited version of the Faithful 32x Resource Pack for 1.17, but with 1.13 textures except wheat.
+### **[Loyalty Resource Pack](https://github.com/KennyN-UCSD/league-of-mango/raw/main/Resource%20Packs/Loyalty.zip)**
+An edited version of the Faithful 32x Resource Pack for 1.17, but with 1.13 textures except wheat.
+
+
+### **[Diamond and Pearl Music Pack](https://github.com/KennyN-UCSD/league-of-mango/blob/main/Resource%20Packs/Diamond%20and%20Pearl%20Music.zip)**
+Changes some in-game music to remastered versions of songs from Pokémon Diamond and Pearl.\
+Music by: **[ZameJack](https://www.youtube.com/user/ZameJack)**
+* Background Music 
+	* Key > Route 209 Day
+	* Oxygène > Route 216 Day
+* Music Discs
+	* far > Canalave City Day
+	* mall > Hearthome City Day
+	* mellohi > Route 228 Day
+	* strad > Lake Verity
+	* ward > Battle! Champion Cynthia
