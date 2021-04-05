@@ -7,15 +7,15 @@ Maintained by KennyHammerspike:\
 
 ## Minecraft Server
 IP: **mc.leagueofmango.me**\
-Current Version: **1.17, 21w11a**\
+Current Version: **1.17, 21w13a**\
 Runs 24/7, aside from updates.\
 Backup at 6:00 AM PDT.\
 Daily Reset at 9:00 AM PDT.
 
 The server is currently a vanilla server with a Vanilla+ data pack that adds quality of life features.
 The data pack includes:
-* Diamond Hoe Upgrade
-	* The diamond hoe now replants crops that it breaks.
+* Diamond & Netherite Hoe Upgrade
+	* Diamond and netherite hoes now replants crops that it breaks.
 * Concrete Powder Cauldron Hardening
 	* Concrete powder can now be hardened by tossing it into a cauldron filled with water.
 * Quality of Life Recipes
@@ -25,6 +25,9 @@ The data pack includes:
 	* Stained glass and terracotta can be undyed using water buckets.
 	* Blast furnaces can now smelt cobblestone, stone, basalt, quartz, and ancient debris.
 	* Cobwebs, horse armor, enchanted golden apples, chainmail armor, bottles o' enchanting, name tags, and tridents are now craftable.
+		* Tridents: 3x Prismarine Crystals (Top), 2x Amethyst Crystals (Side), 1x Heart of the Sea (Center), 1x Prismarine Shard (Bottom Center)
+		* Bottles o' Enchanting: 1x Enchanted Book, 1x Lapis Lazuli, 1x Glass Bottle
+		* Name Tag: 3x Paper (Bottom left corner), 1x Slime Ball (Center), 1x Lapis Lazuli (Top Center), 1x Gold Ingot (Right Center), 1x String (Top Right)
 	* Pumpkin seeds can now be used to create orange dye.
 	* Shortcut recipes for items that required crafted items in their recipes like dispensers have been added.
 
