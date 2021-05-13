@@ -10,7 +10,7 @@ IP: **mc.leagueofmango.me**\
 Current Version: **1.17, 21w13a**\
 Runs 24/7, aside from updates.\
 Backup at 5:00 AM PDT.\
-Daily Reset at 6:00 AM PDT.
+Daily Reset at 5:20 AM PDT.
 
 The server is currently a vanilla server with a Vanilla+ data pack that adds quality of life features.
 The data pack includes:
